@@ -1,0 +1,753 @@
+.flag-container {
+  width: 30px;
+  height: 30px;
+  margin: 0 auto;
+  background-size: contain;
+}
+
+.flag-AED {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AED.png?raw=true") no-repeat center top;
+}
+
+.flag-AFN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AFN.png?raw=true") no-repeat center top;
+}
+
+.flag-ALL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ALL.png?raw=true") no-repeat center top;
+}
+
+.flag-AMD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AMD.png?raw=true") no-repeat center top;
+}
+
+.flag-ANG {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ANG.png?raw=true") no-repeat center top;
+}
+
+.flag-AOA {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AOA.png?raw=true") no-repeat center top;
+}
+
+.flag-ARS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ARS.png?raw=true") no-repeat center top;
+}
+
+.flag-AUD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AUD.png?raw=true") no-repeat center top;
+}
+
+.flag-AWG {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AWG.png?raw=true") no-repeat center top;
+}
+
+.flag-AZM {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AZM.png?raw=true") no-repeat center top;
+}
+
+.flag-AZN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_AZN.png?raw=true") no-repeat center top;
+}
+
+.flag-BAM {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BAM.png?raw=true") no-repeat center top;
+}
+
+.flag-BBD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BBD.png?raw=true") no-repeat center top;
+}
+
+.flag-BDT {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BDT.png?raw=true") no-repeat center top;
+}
+
+.flag-BGN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BGN.png?raw=true") no-repeat center top;
+}
+
+.flag-BHD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BHD.png?raw=true") no-repeat center top;
+}
+
+.flag-BIF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BIF.png?raw=true") no-repeat center top;
+}
+
+.flag-BMD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BMD.png?raw=true") no-repeat center top;
+}
+
+.flag-BND {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BND.png?raw=true") no-repeat center top;
+}
+
+.flag-BOB {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BOB.png?raw=true") no-repeat center top;
+}
+
+.flag-BRL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BRL.png?raw=true") no-repeat center top;
+}
+
+.flag-BSD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BSD.png?raw=true") no-repeat center top;
+}
+
+.flag-BTN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BTN.png?raw=true") no-repeat center top;
+}
+
+.flag-BWP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BWP.png?raw=true") no-repeat center top;
+}
+
+.flag-BYR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BYR.png?raw=true") no-repeat center top;
+}
+
+.flag-BZD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BZD.png?raw=true") no-repeat center top;
+}
+
+.flag-CAD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CAD.png?raw=true") no-repeat center top;
+}
+
+.flag-CHF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CHF.png?raw=true") no-repeat center top;
+}
+
+.flag-CLP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CLP.png?raw=true") no-repeat center top;
+}
+
+.flag-CNY {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CNY.png?raw=true") no-repeat center top;
+}
+
+.flag-COP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_COP.png?raw=true") no-repeat center top;
+}
+
+.flag-CRC {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CRC.png?raw=true") no-repeat center top;
+}
+
+.flag-CSD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CSD.png?raw=true") no-repeat center top;
+}
+
+.flag-CUP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CUP.png?raw=true") no-repeat center top;
+}
+
+.flag-CVE {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CVE.png?raw=true") no-repeat center top;
+}
+
+.flag-CYP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CYP.png?raw=true") no-repeat center top;
+}
+
+.flag-CZK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_CZK.png?raw=true") no-repeat center top;
+}
+
+.flag-DJF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_DJF.png?raw=true") no-repeat center top;
+}
+
+.flag-DKK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_DKK.png?raw=true") no-repeat center top;
+}
+
+.flag-DOP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_DOP.png?raw=true") no-repeat center top;
+}
+
+.flag-DZD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_DZD.png?raw=true") no-repeat center top;
+}
+
+.flag-EEK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_EEK.png?raw=true") no-repeat center top;
+}
+
+.flag-EGP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_EGP.png?raw=true") no-repeat center top;
+}
+
+.flag-ETB {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ETB.png?raw=true") no-repeat center top;
+}
+
+.flag-EUR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_EUR.png?raw=true") no-repeat center top;
+}
+
+.flag-FJD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_FJD.png?raw=true") no-repeat center top;
+}
+
+.flag-FKP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_FKP.png?raw=true") no-repeat center top;
+}
+
+.flag-GBP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GBP.png?raw=true") no-repeat center top;
+}
+
+.flag-GEL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GEL.png?raw=true") no-repeat center top;
+}
+
+.flag-GHC {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GHC.png?raw=true") no-repeat center top;
+}
+
+.flag-GHS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GHS.png?raw=true") no-repeat center top;
+}
+
+.flag-GIP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GIP.png?raw=true") no-repeat center top;
+}
+
+.flag-GMD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GMD.png?raw=true") no-repeat center top;
+}
+
+.flag-GNF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GNF.png?raw=true") no-repeat center top;
+}
+
+.flag-GTQ {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GTQ.png?raw=true") no-repeat center top;
+}
+
+.flag-GYD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_GYD.png?raw=true") no-repeat center top;
+}
+
+.flag-HKD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_HKD.png?raw=true") no-repeat center top;
+}
+
+.flag-HNL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_HNL.png?raw=true") no-repeat center top;
+}
+
+.flag-HRK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_HRK.png?raw=true") no-repeat center top;
+}
+
+.flag-HTG {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_HTG.png?raw=true") no-repeat center top;
+}
+
+.flag-HUF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_HUF.png?raw=true") no-repeat center top;
+}
+
+.flag-IDR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_IDR.png?raw=true") no-repeat center top;
+}
+
+.flag-ILS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ILS.png?raw=true") no-repeat center top;
+}
+
+.flag-INR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_INR.png?raw=true") no-repeat center top;
+}
+
+.flag-IQD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_IQD.png?raw=true") no-repeat center top;
+}
+
+.flag-ISK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ISK.png?raw=true") no-repeat center top;
+}
+
+.flag-JMD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_JMD.png?raw=true") no-repeat center top;
+}
+
+.flag-JOD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_JOD.png?raw=true") no-repeat center top;
+}
+
+.flag-JPY {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_JPY.png?raw=true") no-repeat center top;
+}
+
+.flag-KES {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KES.png?raw=true") no-repeat center top;
+}
+
+.flag-KGS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KGS.png?raw=true") no-repeat center top;
+}
+
+.flag-KHR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KHR.png?raw=true") no-repeat center top;
+}
+
+.flag-KMF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KMF.png?raw=true") no-repeat center top;
+}
+
+.flag-KPW {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KPW.png?raw=true") no-repeat center top;
+}
+
+.flag-KRW {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KRW.png?raw=true") no-repeat center top;
+}
+
+.flag-KWD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KWD.png?raw=true") no-repeat center top;
+}
+
+.flag-KYD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KYD.png?raw=true") no-repeat center top;
+}
+
+.flag-KZT {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_KZT.png?raw=true") no-repeat center top;
+}
+
+.flag-LAK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LAK.png?raw=true") no-repeat center top;
+}
+
+.flag-LBP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LBP.png?raw=true") no-repeat center top;
+}
+
+.flag-LKR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LKR.png?raw=true") no-repeat center top;
+}
+
+.flag-LRD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LRD.png?raw=true") no-repeat center top;
+}
+
+.flag-LSL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LSL.png?raw=true") no-repeat center top;
+}
+
+.flag-LTL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LTL.png?raw=true") no-repeat center top;
+}
+
+.flag-LVL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LVL.png?raw=true") no-repeat center top;
+}
+
+.flag-LYD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_LYD.png?raw=true") no-repeat center top;
+}
+
+.flag-MAD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MAD.png?raw=true") no-repeat center top;
+}
+
+.flag-MDL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MDL.png?raw=true") no-repeat center top;
+}
+
+.flag-MGA {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MGA.png?raw=true") no-repeat center top;
+}
+
+.flag-MGF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MGF.png?raw=true") no-repeat center top;
+}
+
+.flag-MKD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MKD.png?raw=true") no-repeat center top;
+}
+
+.flag-MMK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MMK.png?raw=true") no-repeat center top;
+}
+
+.flag-MNT {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MNT.png?raw=true") no-repeat center top;
+}
+
+.flag-MOP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MOP.png?raw=true") no-repeat center top;
+}
+
+.flag-MRO {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MRO.png?raw=true") no-repeat center top;
+}
+
+.flag-MTL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MTL.png?raw=true") no-repeat center top;
+}
+
+.flag-MUR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MUR.png?raw=true") no-repeat center top;
+}
+
+.flag-MVR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MVR.png?raw=true") no-repeat center top;
+}
+
+.flag-MWK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MWK.png?raw=true") no-repeat center top;
+}
+
+.flag-MXN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MXN.png?raw=true") no-repeat center top;
+}
+
+.flag-MYR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MYR.png?raw=true") no-repeat center top;
+}
+
+.flag-MZM {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MZM.png?raw=true") no-repeat center top;
+}
+
+.flag-MZN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_MZN.png?raw=true") no-repeat center top;
+}
+
+.flag-NAD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_NAD.png?raw=true") no-repeat center top;
+}
+
+.flag-NGN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_NGN.png?raw=true") no-repeat center top;
+}
+
+.flag-NIO {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_NIO.png?raw=true") no-repeat center top;
+}
+
+.flag-NOK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_NOK.png?raw=true") no-repeat center top;
+}
+
+.flag-NPR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_NPR.png?raw=true") no-repeat center top;
+}
+
+.flag-NZD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_NZD.png?raw=true") no-repeat center top;
+}
+
+.flag-OMR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_OMR.png?raw=true") no-repeat center top;
+}
+
+.flag-PAB {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PAB.png?raw=true") no-repeat center top;
+}
+
+.flag-PEN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PEN.png?raw=true") no-repeat center top;
+}
+
+.flag-PGK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PGK.png?raw=true") no-repeat center top;
+}
+
+.flag-PHP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PHP.png?raw=true") no-repeat center top;
+}
+
+.flag-PKR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PKR.png?raw=true") no-repeat center top;
+}
+
+.flag-PLN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PLN.png?raw=true") no-repeat center top;
+}
+
+.flag-PYG {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_PYG.png?raw=true") no-repeat center top;
+}
+
+.flag-QAR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_QAR.png?raw=true") no-repeat center top;
+}
+
+.flag-ROL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ROL.png?raw=true") no-repeat center top;
+}
+
+.flag-RON {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_RON.png?raw=true") no-repeat center top;
+}
+
+.flag-RSD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_RSD.png?raw=true") no-repeat center top;
+}
+
+.flag-RUB {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_RUB.png?raw=true") no-repeat center top;
+}
+
+.flag-RWF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_RWF.png?raw=true") no-repeat center top;
+}
+
+.flag-SAR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SAR.png?raw=true") no-repeat center top;
+}
+
+.flag-SBD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SBD.png?raw=true") no-repeat center top;
+}
+
+.flag-SCR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SCR.png?raw=true") no-repeat center top;
+}
+
+.flag-SDD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SDD.png?raw=true") no-repeat center top;
+}
+
+.flag-SEK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SEK.png?raw=true") no-repeat center top;
+}
+
+.flag-SGD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SGD.png?raw=true") no-repeat center top;
+}
+
+.flag-SHP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SHP.png?raw=true") no-repeat center top;
+}
+
+.flag-SIT {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SIT.png?raw=true") no-repeat center top;
+}
+
+.flag-SKK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SKK.png?raw=true") no-repeat center top;
+}
+
+.flag-SLL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SLL.png?raw=true") no-repeat center top;
+}
+
+.flag-SOS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SOS.png?raw=true") no-repeat center top;
+}
+
+.flag-SRD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SRD.png?raw=true") no-repeat center top;
+}
+
+.flag-SRG {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SRG.png?raw=true") no-repeat center top;
+}
+
+.flag-STD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_STD.png?raw=true") no-repeat center top;
+}
+
+.flag-SVC {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SVC.png?raw=true") no-repeat center top;
+}
+
+.flag-SYP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SYP.png?raw=true") no-repeat center top;
+}
+
+.flag-SZL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_SZL.png?raw=true") no-repeat center top;
+}
+
+.flag-THB {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_THB.png?raw=true") no-repeat center top;
+}
+
+.flag-TJS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TJS.png?raw=true") no-repeat center top;
+}
+
+.flag-TMM {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TMM.png?raw=true") no-repeat center top;
+}
+
+.flag-TND {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TND.png?raw=true") no-repeat center top;
+}
+
+.flag-TOP {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TOP.png?raw=true") no-repeat center top;
+}
+
+.flag-TRL {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TRL.png?raw=true") no-repeat center top;
+}
+
+.flag-TRY {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TRY.png?raw=true") no-repeat center top;
+}
+
+.flag-TTD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TTD.png?raw=true") no-repeat center top;
+}
+
+.flag-TWD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TWD.png?raw=true") no-repeat center top;
+}
+
+.flag-TZS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_TZS.png?raw=true") no-repeat center top;
+}
+
+.flag-UAH {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_UAH.png?raw=true") no-repeat center top;
+}
+
+.flag-UGX {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_UGX.png?raw=true") no-repeat center top;
+}
+
+.flag-USD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_USD.png?raw=true") no-repeat center top;
+}
+
+.flag-UYU {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_UYU.png?raw=true") no-repeat center top;
+}
+
+.flag-UZS {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_UZS.png?raw=true") no-repeat center top;
+}
+
+.flag-VEB {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_VEB.png?raw=true") no-repeat center top;
+}
+
+.flag-VND {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_VND.png?raw=true") no-repeat center top;
+}
+
+.flag-VUV {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_VUV.png?raw=true") no-repeat center top;
+}
+
+.flag-WST {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_WST.png?raw=true") no-repeat center top;
+}
+
+.flag-XAF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XAF.png?raw=true") no-repeat center top;
+}
+
+.flag-XAG {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XAG.png?raw=true") no-repeat center top;
+}
+
+.flag-XAU {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XAU.png?raw=true") no-repeat center top;
+}
+
+.flag-XCD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XCD.png?raw=true") no-repeat center top;
+}
+
+.flag-XOF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XOF.png?raw=true") no-repeat center top;
+}
+
+.flag-XPD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XPD.png?raw=true") no-repeat center top;
+}
+
+.flag-XPF {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XPF.png?raw=true") no-repeat center top;
+}
+
+.flag-XPT {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_XPT.png?raw=true") no-repeat center top;
+}
+
+.flag-YER {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_YER.png?raw=true") no-repeat center top;
+}
+
+.flag-YUM {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_YUM.png?raw=true") no-repeat center top;
+}
+
+.flag-ZAR {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ZAR.png?raw=true") no-repeat center top;
+}
+
+.flag-ZMK {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ZMK.png?raw=true") no-repeat center top;
+}
+
+.flag-ZWD {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_ZWD.png?raw=true") no-repeat center top;
+}
+
+.flag-BYN {
+  background: url("https://github.com/ismalizarraga4/currency_flags/blob/main/currency_code/F_BYN.png?raw=true") no-repeat center top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
